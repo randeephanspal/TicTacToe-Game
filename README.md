@@ -1,6 +1,6 @@
 # TicTacToe-Game
 
-Tic Tac Toe Game is built using Python3.
+Tic Tac Toe Game is built in Python3 during my winter vacation.
 
 The code contains only functions and loops.
 
